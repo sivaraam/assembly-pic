@@ -4,3 +4,6 @@
 [submodule "LEDOnOff.X"]
 	path = LEDOnOff.X
 	url = ./LEDOnOff.X/
+[submodule "UART.X"]
+	path = UART.X
+	url = ./UART.X/
