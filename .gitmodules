@@ -1,9 +1,9 @@
 [submodule "LEDOn.X"]
 	path = LEDOn.X
-	url = ./LEDOn.X/
+	url = https://github.com/sivaraam/assembly-pic-LEDOn
 [submodule "LEDOnOff.X"]
 	path = LEDOnOff.X
-	url = ./LEDOnOff.X/
+	url = https://github.com/sivaraam/assembly-pic-LEDOnOff
 [submodule "UART.X"]
 	path = UART.X
-	url = ./UART.X/
+	url = https://github.com/sivaraam/assembly-pic-UART
